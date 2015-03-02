@@ -56,7 +56,7 @@ cls
 
 @echo off
 
-echo choose your Pokemon! (viewing profiles IS reccomended!!!)
+echo choose your Pokemon! (viewing profiles IS reccomended!!)
 
 echo -----------------------------------------------------------------
 
